@@ -20,4 +20,4 @@ This project focuses on performing an Exploratory Data Analysis (EDA) on the cla
  * Matplotlib / Seaborn (Data Visualization)
  * Jupyter Notebook
 
-   Special thanks to #Syntecxhub for providing the framework and guidance during this internship project.
+   Special thanks to Syntecxhub for providing the framework and guidance during this internship project.
